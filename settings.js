@@ -16,9 +16,9 @@ global.APIKeys = {
 }
 
 //other
-global.owner = ['27634090203'] 
-global.pemilik = ['27634090203'] //pemilik nomor
-global.premium = ['27634090203'] //premium number
+global.owner = ['6285156147636'] 
+global.pemilik = ['6285156147636'] //pemilik nomor
+global.premium = ['6285156147636'] //premium number
 global.pengguna = 'Drips' //pengguna
 global.botnma = 'ZIM BOT INC' //botnama,botname
 global.ownernma = 'Drips' //ownernama,ownername
